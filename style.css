@@ -48,6 +48,8 @@ footer{
     background-color: #cdd7db;
     padding: 5px 10px;
     border-radius: 20px;
+    position: relative;
+    z-index: 1;
 }
 .videoyt{
     text-align: center;
